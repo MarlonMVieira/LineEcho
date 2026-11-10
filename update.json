@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "2.1.3",
-    "versionCode":  20103,
+    "version":  "2.1.5",
+    "versionCode":  20105,
     "releaseDate":  "2026-11-10",
-    "changelog":  "LineEcho v2.1.3 - Atualizacao automatica OTA [Root e Lite]",
+    "changelog":  "LineEcho v2.1.5 - Atualizacao automatica OTA [Root e Lite]",
     "root_apk_url":  "https://github.com/MarlonMVieira/LineEcho/releases/latest/download/LineEcho.apk",
     "lite_apk_url":  "https://github.com/MarlonMVieira/LineEcho/releases/latest/download/LineEcho_Lite.apk"
 }
